@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Claude config
+.claude/
+
+# Large CAD files (not needed for simulation)
+SO-ARM100/STEP/
+SO-ARM100/STL/
+SO-ARM100/Mini/
+SO-ARM100/Optional/
+
+# Git
+.git/
+
+# pip-installable library (not needed in repo)
+lerobot/
